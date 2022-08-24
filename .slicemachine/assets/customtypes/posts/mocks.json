@@ -1,0 +1,40 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "posts",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": "selection",
+    "subtitle": "duty",
+    "author": "hollow",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1560457079-9a6532ccb118"
+    },
+    "content": [
+      {
+        "header": "magnet",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Ipsum sint ea eu consectetur cillum nostrud deserunt aliquip deserunt.",
+            "spans": []
+          }
+        ]
+      }
+    ],
+    "slices": []
+  }
+}
