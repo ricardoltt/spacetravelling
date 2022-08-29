@@ -46,10 +46,10 @@
         "config": {
           "label": "content",
           "fields": {
-            "header": {
+            "heading": {
               "type": "Text",
               "config": {
-                "label": "header",
+                "label": "heading",
                 "placeholder": ""
               }
             },

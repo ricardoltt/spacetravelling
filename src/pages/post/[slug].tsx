@@ -21,7 +21,7 @@ interface Post {
     };
     author: string;
     content: {
-      header: string;
+      heading: string;
       body: {
         text: string;
       }[];
@@ -41,7 +41,7 @@ export default function Post({ post }: PostProps) {
   }
 
   const totalWords = post.data.content.reduce((total, contentItem) => {
-    const headingTime = contentItem.header.split(/\s+/).length;
+    const headingTime = contentItem.heading.split(/\s+/).length;
     const wordsTime = RichText.asText(contentItem.body).split(/\s+/).length;
 
     return total + headingTime + wordsTime;
@@ -84,8 +84,8 @@ export default function Post({ post }: PostProps) {
 
           {post.data.content.map(content => {
             return (
-              <article key={content.header}>
-                <h2>{content.header}</h2>
+              <article key={content.heading}>
+                <h2>{content.heading}</h2>
                 <div
                   className={styles.postContent}
                   dangerouslySetInnerHTML={{
@@ -124,6 +124,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
   const prismic = getPrismicClient({});
   const response = await prismic.getByUID('posts', String(slug));
+  console.log({ response: response.data.content });
 
   return {
     props: {
