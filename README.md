@@ -1,4 +1,4 @@
-<img alt="ignite" src="https://github.com/ricardoltt/desafio-5-react/blob/main/.github/background.png" />
+<img alt="ignite" src="https://github.com/ricardoltt/desafio-5-react/blob/master/.github/background.png" />
 
 ## :dart: Sobre
 
@@ -9,8 +9,8 @@ A aplicação foi desenvolvida utilizando o framework NextJS aplicando os concei
 Essa é uma aplicação Serverless, ou seja, todo o processo que dependeria de um backend foi integrado dentro do front e seguindo o padrão da JAMStack.
 As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pelo front.
 
-<img alt="exemplo da tela" src="https://github.com/ricardoltt/desafio-5-react/blob/main/.github/1.png" />
-<img alt="exemplo da tela2" src="https://github.com/ricardoltt/desafio-5-react/blob/main/.github/2.png" />
+<img alt="exemplo da tela" src="https://github.com/ricardoltt/desafio-5-react/blob/master/.github/1.png" />
+<img alt="exemplo da tela2" src="https://github.com/ricardoltt/desafio-5-react/blob/master/.github/2.png" />
 <br>
 <br>
 Essa é uma aplicação Serverless, ou seja, todo o processo que dependeria de um backend foi integrado dentro do front e seguindo o padrão da JAMStack.
