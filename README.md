@@ -51,7 +51,7 @@ As seguintes tecnologias foram utilizadas no projeto:
 - Buscar filmes através de uma API
 - Filtrar filmes conforme genêro
 
-![vídeo tela](https://github.com/ricardoltt/watchme/blob/main/.github/gif-site.gif)
+![vídeo tela](https://github.com/ricardoltt/spacetravelling/blob/main/.github/gif-site.gif)
 
 ## :white_check_mark: Requerimentos
 
