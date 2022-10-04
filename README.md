@@ -50,7 +50,7 @@ As seguintes tecnologias foram utilizadas no projeto:
 ## 🔖 Funcionalidades:
 - Acessar posts cadastrados no CMS
 
-![vídeo tela](https://github.com/ricardoltt/spacetravelling/blob/main/.github/gif-site.gif)
+![vídeo tela](https://github.com/ricardoltt/spacetravelling/blob/master/.github/gif-site.gif)
 
 ## :white_check_mark: Requerimentos
 
