@@ -48,8 +48,7 @@ As seguintes tecnologias foram utilizadas no projeto:
 - [Prismic CMS](https://prismic.io/)
 
 ## 🔖 Funcionalidades:
-- Buscar filmes através de uma API
-- Filtrar filmes conforme genêro
+- Acessar posts cadastrados no CMS
 
 ![vídeo tela](https://github.com/ricardoltt/spacetravelling/blob/main/.github/gif-site.gif)
 
